@@ -15,6 +15,10 @@
                 <span>Java</span><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
             </td>
+              <td width="10%" align="center">
+                <span>Docker</span><br>
+                <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
+            </td>
             <td width="10%" align="center">
                 <span>Vue</span><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
