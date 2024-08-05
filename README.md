@@ -1,8 +1,3 @@
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Yin Yong Tao
-
-# I'm an IoT backend developer programmer.
-
-## My favorite programming languages and tools
 
 <table>
     <tbody>
